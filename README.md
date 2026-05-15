@@ -14,7 +14,7 @@ Tenho experiência prática em **gestão pública, TransfereGOV e desenvolviment
   <a href="https://github.com/mauriciopcosta">
     <img src="https://img.shields.io/badge/GitHub-MAURICIOPCOSTA-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/maurício-pda-costa-251458230">
+  <a href="https://www.linkedin.com/in/maur%C3%ADcio-p-da-costa-251458230">
     <img src="https://img.shields.io/badge/LinkedIn-MAURÍCIO%20COSTA-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
