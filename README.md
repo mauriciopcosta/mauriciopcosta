@@ -102,7 +102,7 @@ Configuração e manutenção de redes, instalação de hardware e software, doc
 
 ## 🎓 Formação
 
-- **Bacharelado em Ciência da Computação** — UNISINOS *(2023 – 2026)*
+- **Bacharelado em Ciência da Computação** — UNISINOS *(2023/1 – 2027/1)*
 - **Power BI Profissional** — Udemy *(2026)*
 - **Carreira QA: Processos e Automação de Testes** — Alura *(2022)*
 - **BPM, BPMN e Modelagem de Processos com Bizagi** — Certificação
