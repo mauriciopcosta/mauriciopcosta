@@ -1,4 +1,4 @@
-# Olá 👋, eu sou o Maurício Costa
+# Olá, eu sou o Maurício Costa
 
 🎓 **Analista de Sistemas | QA Junior | Modelagem de Processos | Power BI**  
 🇧🇷 Porto Alegre, Rio Grande do Sul, Brasil
