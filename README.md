@@ -71,19 +71,6 @@ Tenho experiência prática em **gestão pública, TransfereGOV e desenvolviment
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciopcosta&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopcosta&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=mauriciopcosta&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 💼 Experiência
 
 **CAGESP – Assessoria em Gestão Pública e Privada** *(ago/2023 – presente)*  
