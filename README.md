@@ -14,7 +14,6 @@ Graduando em Ciência da Computação pela **UNISINOS**, atuo na interseção en
 📋 **Processos:** BPMN · Bizagi · Cypress · Metodologias Ágeis  
 🏛️ **Domínio:** TransfereGOV · Convênios Municipais · SDLC  
 
-    </td>
   </tr>
 </table>
 
