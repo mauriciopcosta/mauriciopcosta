@@ -27,7 +27,7 @@
 Sou **Desenvolvedor de Software** e graduando em **Ciência da Computação pela UNISINOS**.
 
 Construo soluções que unem **código limpo**, **qualidade** e **dados**.
-Tenho experiência com sistemas para a **gestão pública digital**, como o ecossistema **TransfereGOV**.
+Tenho experiência com sistemas para a **gestão pública digital**.
 
 - 🔭 Desenvolvo aplicações com **Python**, **React** e **SQL Server**
 - 🔍 Garanto a qualidade com **testes automatizados** e **QA**
@@ -89,17 +89,6 @@ Tenho experiência com sistemas para a **gestão pública digital**, como o ecos
   <img src="https://img.shields.io/badge/Bizagi-1D4F91?style=for-the-badge&logoColor=white" alt="Bizagi"/>
   <img src="https://img.shields.io/badge/Scrum%20%2F%20Agile-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
 </p>
-
----
-
-<!-- ==================== TRABALHANDO EM ==================== -->
-## 🚀 No que estou trabalhando
-
-| | Projeto | Descrição |
-|:-:|---|---|
-| 🏛️ | **TransfereGOV** | Ferramentas para gestão de transferências federais e convênios municipais |
-| 📊 | **Automação de relatórios** | Pipelines de dados com SQL Server e painéis em Power BI |
-| ✅ | **Qualidade de software** | Testes automatizados e modelagem de processos com BPMN/Bizagi |
 
 ---
 
