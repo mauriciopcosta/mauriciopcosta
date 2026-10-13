@@ -1,0 +1,41 @@
+name: Gerar estatísticas do perfil
+
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Card de estatísticas (inclui repositórios privados)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/stats.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: metrics
+          committer_message: "chore: atualiza estatísticas"
+          config_timezone: America/Sao_Paulo
+          base: header, activity, community, repositories
+          repositories_affiliations: owner, collaborator
+
+      - name: Card de linguagens (inclui repositórios privados)
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          committer_branch: metrics
+          committer_message: "chore: atualiza linguagens"
+          config_timezone: America/Sao_Paulo
+          base: ""
+          repositories_affiliations: owner, collaborator
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: cmake, batchfile, glsl
