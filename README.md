@@ -1,6 +1,6 @@
 <!-- ==================== HEADER ==================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Maur%C3%ADcio%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=220&section=header&text=Maur%C3%ADcio%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/maurício-pda-costa-251458230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:mauriciocosta9000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mauriciopcosta&style=for-the-badge&color=2c5364&label=VISITAS" alt="Visitas"/>
+  <img src="https://hits.sh/github.com/mauriciopcosta.svg?style=for-the-badge&label=VISITAS&color=0ea5e9&labelColor=555555" alt="Visitas"/>
 </p>
 
 ---
@@ -50,22 +50,22 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="70"/><br/>
       <b>Desenvolvimento Full Stack</b><br/>
       <sub>Do banco de dados à interface, com Python, React e SQL.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="70"/><br/>
       <b>Foco em Qualidade</b><br/>
       <sub>Testes automatizados com Cypress e visão de QA no ciclo de vida.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="70"/><br/>
       <b>Orientado a Dados</b><br/>
       <sub>Relatórios e automações com Power BI e SQL Server.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/><br/>
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="70"/><br/>
       <b>Visão de Negócio</b><br/>
       <sub>Domínio de processos públicos, convênios e BPMN.</sub>
     </td>
@@ -95,9 +95,13 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 <!-- ==================== ESTATÍSTICAS ==================== -->
 ## 📈 Estatísticas no GitHub
 
+<!-- Cards gerados pelo workflow .github/workflows/metrics.yml (inclui repositórios privados) -->
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciopcosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&locale=pt-br" alt="Estatísticas"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopcosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&locale=pt-br" alt="Linguagens"/>
+  <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/metrics/metrics/stats.svg" alt="Estatísticas"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/metrics/metrics/languages.svg" alt="Linguagens"/>
 </p>
 
 <p align="center">
@@ -121,5 +125,5 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer" width="100%" alt="Footer"/>
 </p>
