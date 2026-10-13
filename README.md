@@ -18,7 +18,7 @@
 ---
 
 <!-- ==================== SOBRE MIM ==================== -->
-## 👨‍💻 Sobre mim
+## <img src="https://api.iconify.design/line-md/account.svg?color=%230ea5e9" width="28" align="top"/> Sobre mim
 
 <table>
   <tr>
@@ -29,11 +29,11 @@ Sou **Desenvolvedor de Software** e graduando em **Ciência da Computação pela
 Construo soluções que unem **código limpo**, **qualidade** e **dados**.
 Tenho experiência com sistemas para a **gestão pública digital**.
 
-- 🔭 Desenvolvo aplicações com **Python**, **React** e **SQL Server**
-- 🔍 Garanto a qualidade com **testes automatizados** e **QA**
-- 📊 Transformo dados em decisões com **Power BI**
-- 🧩 Modelo processos com **BPMN** e **Bizagi**
-- 🌱 Estudo arquitetura de software e boas práticas
+- <img src="https://api.iconify.design/line-md/document-code.svg?color=%230ea5e9" width="20" align="top"/> Desenvolvo aplicações com **Python**, **React** e **SQL Server**
+- <img src="https://api.iconify.design/line-md/confirm-circle.svg?color=%230ea5e9" width="20" align="top"/> Garanto a qualidade com **testes automatizados** e **QA**
+- <img src="https://api.iconify.design/line-md/gauge.svg?color=%230ea5e9" width="20" align="top"/> Transformo dados em decisões com **Power BI**
+- <img src="https://api.iconify.design/line-md/fork-right.svg?color=%230ea5e9" width="20" align="top"/> Modelo processos com **BPMN** e **Bizagi**
+- <img src="https://api.iconify.design/line-md/lightbulb.svg?color=%230ea5e9" width="20" align="top"/> Estudo arquitetura de software e boas práticas
 
     </td>
     <td width="42%" align="center" valign="middle">
@@ -45,27 +45,27 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 ---
 
 <!-- ==================== QUALIDADES ==================== -->
-## ⭐ Principais qualidades
+## <img src="https://api.iconify.design/line-md/star.svg?color=%230ea5e9" width="28" align="top"/> Principais qualidades
 
 <table>
   <tr>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="70"/><br/>
+      <img src="https://api.iconify.design/line-md/laptop.svg?color=%230ea5e9" width="56"/><br/>
       <b>Desenvolvimento Full Stack</b><br/>
       <sub>Do banco de dados à interface, com Python, React e SQL.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="70"/><br/>
+      <img src="https://api.iconify.design/line-md/clipboard-check.svg?color=%230ea5e9" width="56"/><br/>
       <b>Foco em Qualidade</b><br/>
       <sub>Testes automatizados com Cypress e visão de QA no ciclo de vida.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="70"/><br/>
+      <img src="https://api.iconify.design/line-md/document-report.svg?color=%230ea5e9" width="56"/><br/>
       <b>Orientado a Dados</b><br/>
       <sub>Relatórios e automações com Power BI e SQL Server.</sub>
     </td>
     <td align="center" width="25%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Classical%20Building.png" width="70"/><br/>
+      <img src="https://api.iconify.design/line-md/briefcase.svg?color=%230ea5e9" width="56"/><br/>
       <b>Visão de Negócio</b><br/>
       <sub>Domínio de processos públicos, convênios e BPMN.</sub>
     </td>
@@ -75,7 +75,7 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 ---
 
 <!-- ==================== TECNOLOGIAS ==================== -->
-## 🛠️ Tecnologias
+## <img src="https://api.iconify.design/line-md/cog.svg?color=%230ea5e9" width="28" align="top"/> Tecnologias
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,react,js,html,css,nodejs,postgres,git,github,vscode&perline=10" alt="Tecnologias"/>
@@ -93,7 +93,7 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 ---
 
 <!-- ==================== ESTATÍSTICAS ==================== -->
-## 📈 Estatísticas no GitHub
+## <img src="https://api.iconify.design/line-md/speedometer.svg?color=%230ea5e9" width="28" align="top"/> Estatísticas no GitHub
 
 <!-- Card gerado pelo workflow .github/workflows/metrics.yml (inclui repositórios privados) -->
 <p align="center">
