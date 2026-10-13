@@ -95,17 +95,9 @@ Tenho experiência com sistemas para a **gestão pública digital**.
 <!-- ==================== ESTATÍSTICAS ==================== -->
 ## 📈 Estatísticas no GitHub
 
-<!-- Cards gerados pelo workflow .github/workflows/metrics.yml (inclui repositórios privados) -->
+<!-- Card gerado pelo workflow .github/workflows/metrics.yml (inclui repositórios privados) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/metrics/metrics/stats.svg" alt="Estatísticas"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/metrics/metrics/languages.svg" alt="Linguagens"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mauriciopcosta&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&locale=pt_BR" alt="Sequência"/>
+  <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/metrics/stats.svg" width="100%" alt="Atividade no GitHub"/>
 </p>
 
 <!-- Animação da cobrinha: gerada pelo workflow .github/workflows/snake.yml -->
