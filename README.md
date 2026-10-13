@@ -1,35 +1,136 @@
-# 👋 Olá, eu sou Maurício!
+<!-- ==================== HEADER ==================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Maur%C3%ADcio%20Costa&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Desenvolvedor%20de%20Software&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Header"/>
+</p>
 
-<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="500">
+<p align="center">
+  <a href="https://github.com/mauriciopcosta">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&width=620&lines=Desenvolvedor+de+Software+%F0%9F%9A%80;Qualidade+de+Software+(QA)+%F0%9F%94%8D;Python+%C2%B7+React+%C2%B7+SQL+Server;Dados%2C+Automa%C3%A7%C3%A3o+e+Power+BI+%F0%9F%93%8A;Tecnologia+para+a+Gest%C3%A3o+P%C3%BAblica+%F0%9F%8F%9B%EF%B8%8F" alt="Typing SVG"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/maurício-pda-costa-251458230"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:mauriciocosta9000@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mauriciopcosta&style=for-the-badge&color=2c5364&label=VISITAS" alt="Visitas"/>
+</p>
+
+---
+
+<!-- ==================== SOBRE MIM ==================== -->
+## 👨‍💻 Sobre mim
+
 <table>
   <tr>
-    <td width="60%" valign="top">
+    <td width="58%" valign="top">
 
-### 👨‍💻 Analista de Sistemas | QA | Gestão Pública
+Sou **Desenvolvedor de Software** e graduando em **Ciência da Computação pela UNISINOS**.
 
-🐍 Python · ⚛️ React · 🗄️ SQL Server · 📊 Power BI · 🔍 QA
+Construo soluções que unem **código limpo**, **qualidade** e **dados**.
+Tenho experiência com sistemas para a **gestão pública digital**, como o ecossistema **TransfereGOV**.
 
-Graduando em Ciência da Computação pela **UNISINOS**, atuo na interseção entre desenvolvimento de software, qualidade e gestão pública digital. Meu foco está em garantir a **qualidade e eficiência de soluções tecnológicas** com uma visão analítica e orientada a dados.
+- 🔭 Desenvolvo aplicações com **Python**, **React** e **SQL Server**
+- 🔍 Garanto a qualidade com **testes automatizados** e **QA**
+- 📊 Transformo dados em decisões com **Power BI**
+- 🧩 Modelo processos com **BPMN** e **Bizagi**
+- 🌱 Estudo arquitetura de software e boas práticas
 
-🔧 **Stack:** Python · React · SQL Server · PostgreSQL · JavaScript  
-📋 **Processos:** BPMN · Bizagi · Cypress · Metodologias Ágeis  
-🏛️ **Domínio:** TransfereGOV · Convênios Municipais · SDLC  
-
+    </td>
+    <td width="42%" align="center" valign="middle">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" alt="Coding"/>
+    </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Em que estou trabalhando
+<!-- ==================== QUALIDADES ==================== -->
+## ⭐ Principais qualidades
 
-- Ferramentas para gestão de transferências federais (TransfereGOV)
-- Automação de processos e relatórios com Power BI + SQL Server
-- QA e modelagem de processos com BPMN/Bizagi
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="70"/><br/>
+      <b>Desenvolvimento Full Stack</b><br/>
+      <sub>Do banco de dados à interface, com Python, React e SQL.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="70"/><br/>
+      <b>Foco em Qualidade</b><br/>
+      <sub>Testes automatizados com Cypress e visão de QA no ciclo de vida.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="70"/><br/>
+      <b>Orientado a Dados</b><br/>
+      <sub>Relatórios e automações com Power BI e SQL Server.</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="70"/><br/>
+      <b>Visão de Negócio</b><br/>
+      <sub>Domínio de processos públicos, convênios e BPMN.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🔗 Conecte-se
+<!-- ==================== TECNOLOGIAS ==================== -->
+## 🛠️ Tecnologias
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maurício-pda-costa-251458230)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mauriciopcosta)
-[![Email](https://img.shields.io/badge/-Email-FF6584?style=flat-square&logo=microsoftoutlook&logoColor=white)](mailto:mauriciocosta9000@gmail.com)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,react,js,html,css,nodejs,postgres,git,github,vscode&perline=10" alt="Tecnologias"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/>
+  <img src="https://img.shields.io/badge/BPMN-0A7EA4?style=for-the-badge&logo=diagramsdotnet&logoColor=white" alt="BPMN"/>
+  <img src="https://img.shields.io/badge/Bizagi-1D4F91?style=for-the-badge&logoColor=white" alt="Bizagi"/>
+  <img src="https://img.shields.io/badge/Scrum%20%2F%20Agile-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white" alt="Agile"/>
+</p>
+
+---
+
+<!-- ==================== TRABALHANDO EM ==================== -->
+## 🚀 No que estou trabalhando
+
+| | Projeto | Descrição |
+|:-:|---|---|
+| 🏛️ | **TransfereGOV** | Ferramentas para gestão de transferências federais e convênios municipais |
+| 📊 | **Automação de relatórios** | Pipelines de dados com SQL Server e painéis em Power BI |
+| ✅ | **Qualidade de software** | Testes automatizados e modelagem de processos com BPMN/Bizagi |
+
+---
+
+<!-- ==================== ESTATÍSTICAS ==================== -->
+## 📈 Estatísticas no GitHub
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mauriciopcosta&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&locale=pt-br" alt="Estatísticas"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciopcosta&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=36BCF7&locale=pt-br" alt="Linguagens"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mauriciopcosta&theme=tokyonight&hide_border=true&background=0d1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7&locale=pt_BR" alt="Sequência"/>
+</p>
+
+<!-- Animação da cobrinha: gerada pelo workflow .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/output/github-snake.svg"/>
+    <img src="https://raw.githubusercontent.com/mauriciopcosta/mauriciopcosta/output/github-snake-dark.svg" alt="Animação da cobrinha"/>
+  </picture>
+</p>
+
+---
+
+<!-- ==================== FOOTER ==================== -->
+<p align="center">
+  <i>"Qualidade não é um ato, é um hábito." — Aristóteles</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="Footer"/>
+</p>
