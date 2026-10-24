@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="250" viewBox="0 0 820 250" role="img" aria-label="Estatísticas do GitHub">
+<style>
+  :root { --bg:#ffffff; --border:#d0d7de; --fg:#1f2328; --muted:#59636e; --accent:#0284c7; }
+  @media (prefers-color-scheme: dark) { :root { --bg:#0d1117; --border:#30363d; --fg:#e6edf3; --muted:#8b949e; --accent:#38bdf8; } }
+  .card { fill:var(--bg); stroke:var(--border); }
+  text { font-family:'Segoe UI',Ubuntu,Helvetica,Arial,sans-serif; }
+  .value { font-size:34px; font-weight:700; fill:var(--accent); text-anchor:middle; }
+  .label { font-size:13px; fill:var(--muted); text-anchor:middle; }
+  .title { font-size:15px; font-weight:600; fill:var(--fg); }
+  .lang { font-size:13px; fill:var(--fg); }
+  .pct { fill:var(--muted); }
+  .fade { opacity:0; animation:fade .6s ease-out forwards; }
+  .grow { transform-origin:30px 0; transform:scaleX(0); animation:grow 1s .6s ease-out forwards; }
+  @keyframes fade { from { opacity:0; transform:translateY(6px); } to { opacity:1; transform:none; } }
+  @keyframes grow { to { transform:scaleX(1); } }
+</style>
+<rect class="card" x="0.5" y="0.5" width="819" height="249" rx="10"/>
+<text x="30" y="36" class="title">Atividade no GitHub</text>
+<g class="fade" style="animation-delay:0.00s"><text x="125.0" y="88" class="value">4.301</text><text x="125.0" y="116" class="label">Contribuições (12 meses)</text></g><g class="fade" style="animation-delay:0.15s"><text x="315.0" y="88" class="value">151</text><text x="315.0" y="116" class="label">Dias ativos (12 meses)</text></g><g class="fade" style="animation-delay:0.30s"><text x="505.0" y="88" class="value">12 dias</text><text x="505.0" y="116" class="label">Sequência atual</text></g><g class="fade" style="animation-delay:0.45s"><text x="695.0" y="88" class="value">13 dias</text><text x="695.0" y="116" class="label">Maior sequência</text></g>
+<text x="30" y="156" class="title">Linguagens mais usadas</text>
+<clipPath id="bar"><rect x="30" y="170" width="760" height="10" rx="5"/></clipPath>
+<g clip-path="url(#bar)"><g class="grow"><rect x="30.0" y="170" width="426.0" height="10" fill="#f1e05a"/><rect x="456.0" y="170" width="128.5" height="10" fill="#f34b7d"/><rect x="584.4" y="170" width="70.7" height="10" fill="#555555"/><rect x="655.2" y="170" width="68.8" height="10" fill="#3178c6"/><rect x="723.9" y="170" width="33.4" height="10" fill="#ff5a03"/><rect x="757.3" y="170" width="32.7" height="10" fill="#e34c26"/></g></g>
+<g class="fade" style="animation-delay:1s"><circle cx="36.0" cy="214" r="5" fill="#f1e05a"/><text x="46.0" y="218" class="lang">JavaScript <tspan class="pct">53.6%</tspan></text><circle cx="162.7" cy="214" r="5" fill="#f34b7d"/><text x="172.7" y="218" class="lang">C++ <tspan class="pct">16.2%</tspan></text><circle cx="289.3" cy="214" r="5" fill="#555555"/><text x="299.3" y="218" class="lang">C <tspan class="pct">8.9%</tspan></text><circle cx="416.0" cy="214" r="5" fill="#3178c6"/><text x="426.0" y="218" class="lang">TypeScript <tspan class="pct">8.7%</tspan></text><circle cx="542.7" cy="214" r="5" fill="#ff5a03"/><text x="552.7" y="218" class="lang">Astro <tspan class="pct">4.2%</tspan></text><circle cx="669.3" cy="214" r="5" fill="#e34c26"/><text x="679.3" y="218" class="lang">HTML <tspan class="pct">4.1%</tspan></text></g>
+</svg>
